@@ -1,0 +1,30 @@
+body {
+  width: 300px;
+  height: 300px;
+  text-align: center;
+  font-family: "KoHo", sans-serif;
+}
+
+img {
+  width: 80%;
+}
+
+.pokemon_image {
+  width: auto;
+}
+
+.hidden {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+button {
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+  cursor: pointer;
+  border-radius: 4px;
+}
